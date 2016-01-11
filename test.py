@@ -1,1 +1,2 @@
 
+print 'self destruct in:'
